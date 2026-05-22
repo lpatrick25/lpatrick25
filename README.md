@@ -1,49 +1,115 @@
 # 👋 Hi, I'm Patrick Y. Leoncito!
 
-I'm a passionate **web developer** with a focus on building robust, user-friendly applications using **Laravel**, **PHP**, and modern frontend technologies. I enjoy creating systems that solve real-world problems, from laboratory equipment management to tournament organization systems. My work emphasizes clean code, scalable architecture, and clear documentation to empower collaboration and usability.
+I'm a passionate full-stack web developer focused on building robust, scalable, and real-world systems using Laravel, PHP, and modern frontend frameworks. I specialize in developing business-critical applications such as management systems, payroll-grade timekeeping engines, reservation platforms, and mobile-integrated solutions.
+
+My development approach emphasizes clean architecture, maintainable code, and practical system design that solves real operational problems.
+
+
 
 ## 🚀 About Me
-- 💻 I specialize in **backend development** with Laravel and PHP, paired with **MySQL** for efficient data management.
-- 🌐 I also work with frontend technologies like **Angular**, **Bootstrap**, and **Tailwind CSS** to craft responsive, elegant interfaces.
-- 📚 I’m committed to writing beginner-friendly documentation and setting up projects for seamless collaboration using **Git** and **GitHub**.
-- 🔧 I love exploring tools that streamline development, testing, and deployment processes.
-- 🌟 Currently working on projects like the **Laboratory Equipment Borrowing Management System (LEBMS)** and **TKD Management System**.
+
+ 💻 I specialize in backend development using Laravel, PHP, and MySQL, with a strong focus on system logic and data integrity.
+ 🌐 I build responsive and dynamic interfaces using Angular, Bootstrap, and Tailwind CSS.
+ 📱 I develop hybrid mobile applications using Ionic + Capacitor, including integrations with tools like Scanbot SDK for document scanning and OCR workflows.
+ ⚙️ I design complex backend systems such as:
+
+   Payroll-grade DTR (Daily Time Record) engines with cut-off logic (1–15 / 16–end)
+   Biometric log processing with shift handling and edge-case correction
+   Multi-role enterprise systems with role-based access control
+ 🏢 I’ve worked on systems including:
+
+   Equipment rental, vessel services, and diving lesson management
+   Hotel, resort, and food reservation systems
+   Bureau of Fire Protection (BFP) inspection and management system (Abuyog)
+   Water billing and payment workflow systems
+ 🔧 I enjoy optimizing workflows using tools like Redis caching, service layers, and modular Laravel architecture.
+ 📚 I prioritize building systems that are well-documented and easy to maintain for teams and future developers.
+ 🚀 I’m also exploring scalable system design inspired by platforms like Grab/Angkas-style applications.
+
+
 
 ## 🛠️ Tools & Technologies
-Here’s my tech stack:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" width="45" height="45"/>
-</p>
+### Backend
+
+ Laravel
+ PHP
+ MySQL
+ Redis
+ REST APIs
+ Sanctum Authentication
+
+### Frontend
+
+ Angular
+ Bootstrap
+ Tailwind CSS
+ JavaScript / jQuery
+
+### Mobile
+
+ Ionic Framework
+ Capacitor
+ Scanbot SDK (Document Scanning & OCR)
+
+### Dev Tools
+
+ Git & GitHub
+ VS Code
+ Composer
+ Postman
+
+
 
 ## 📂 Featured Projects
-- **[Laboratory Equipment Borrowing Management System (LEBMS)](https://github.com/isvennn/ACC-LEBMS)**: A Laravel-based system for managing laboratory equipment borrowing, featuring QR code integration, user roles (Admin, Laboratory Head, Borrower), and a responsive UI with Bootstrap and Tailwind CSS.
-- **[TKD Management System](https://github.com/lpatrick25/Taekwondo)**: A web-based application for managing Taekwondo organizations and tournaments, built with Laravel 10, MySQL, and Laravel Sanctum for authentication, with PDF export capabilities.
-- **[Other Projects]**: Explore my repositories for more work on database normalization, API-driven Angular apps, and report generation systems.
+
+ Laboratory Equipment Borrowing Management System (LEBMS)
+  Laravel-based system for managing laboratory equipment borrowing with QR integration, role-based access (Admin, Lab Head, Borrower), and responsive UI using Bootstrap + Tailwind.
+
+ TKD Management System
+  A Laravel 10 application for managing Taekwondo organizations and tournaments with authentication (Sanctum), PDF exports, and structured tournament workflows.
+
+ Hotel, Resort & Food Reservation System
+  Multi-role booking platform for managing accommodations and food services with modular Laravel service layers.
+
+ BFP Abuyog Management System
+  Enterprise-level system with detailed routing, role management (Admin, Client, Inspector, Marshal), and workflow automation for inspections and compliance.
+
+ Payroll-Grade DTR & Biometric Processing Engine
+  Advanced timekeeping system handling shift rotations, overnight logs, cut-off periods (1–15 / 16–end), and edge-case log reconciliation.
+
+ Water Billing & Payment System
+  Billing workflow system from meter reading → bill generation → payment processing with structured flow handling.
+
+ Mobile Scanning App (Ionic + Scanbot)
+  Document scanning application with image enhancement and secure storage integration for backend processing.
+
+
 
 ## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lpatrick25&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lpatrick25&theme=radical" alt="GitHub Streak"/>
 </p>
 
-## 📬 Get in Touch
-- 📧 Email: patrickleoncito25@gmail.com
-- 🐦 Twitter: https://x.com/almaggi_25
-- 💼 LinkedIn: https://www.linkedin.com/in/almaggi
-- 🌐 Portfolio: [Your Portfolio URL, if applicable]
 
-## 🤝 Contributing
-I’m always open to collaboration! If you’d like to contribute to my projects, check out the `CONTRIBUTING.md` files in my repositories or reach out to discuss ideas. Let’s build something amazing together!
+
+## 📬 Get in Touch
+
+ 📧 Email: [patrickleoncito25@gmail.com](mailto:patrickleoncito25@gmail.com)
+ 🐦 Twitter: [https://x.com/almaggi_25](https://x.com/almaggi_25)
+ 💼 LinkedIn: [https://www.linkedin.com/in/almaggi](https://www.linkedin.com/in/almaggi)
+ 🌐 Portfolio: (Add your portfolio link if available)
+
+
+
+## 🤝 Collaboration
+
+I’m open to collaborating on backend-heavy systems, SaaS platforms, and workflow automation tools. If you’re working on something complex or system-driven, feel free to reach out.
+
+
 
 ## ⭐ Fun Fact
-I’m a big fan of writing **clear, structured documentation** to make complex systems accessible to everyone, from beginners to seasoned developers.
+
+I enjoy designing systems that handle real-world edge cases—especially around timekeeping, scheduling, and workflow automation where accuracy really matters.
