@@ -102,8 +102,15 @@ Document scanning application with image enhancement and secure storage integrat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lpatrick25&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lpatrick25&theme=radical&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lpatrick25&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=lpatrick25&theme=radical&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
